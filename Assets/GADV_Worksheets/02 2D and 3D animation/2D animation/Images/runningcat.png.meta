@@ -108,12 +108,188 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: runningcat_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 768
+        width: 491
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa63e2379ecc7d42afbf153ac009da8
+      internalID: 954090015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 771
+        width: 408
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200c324d42d9d443a623533452a953c
+      internalID: 915905233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 512
+        width: 403
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a45fb6563a884ab036c13c98790ce
+      internalID: -1572918306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 546
+        width: 381
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f31315f35add8469de129fa47fe22a
+      internalID: 979756554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 276
+        width: 390
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87937b886aa7ec3468d3e598b619e121
+      internalID: 1705931467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 256
+        width: 400
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79138246db929142b7a028534a8dcfb
+      internalID: 322106104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 439
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5494df460eb8944b7b92b788fb362b
+      internalID: 1885727212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runningcat_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 4
+        width: 477
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6edd387903034e9b7c66a91122179
+      internalID: 1421270477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 166f69de7edeeb34c8e346b5b0a21f52
     internalID: 0
     vertices: []
     indices: 
@@ -122,7 +298,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      runningcat_0: 954090015
+      runningcat_1: 915905233
+      runningcat_2: -1572918306
+      runningcat_3: 979756554
+      runningcat_4: 1705931467
+      runningcat_5: 322106104
+      runningcat_6: 1885727212
+      runningcat_7: 1421270477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
