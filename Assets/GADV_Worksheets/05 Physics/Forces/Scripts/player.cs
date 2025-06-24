@@ -15,6 +15,7 @@ public class player : MonoBehaviour
 
     [SerializeField]
     private Transform exPos;
+
     
     void Start()
     {
@@ -23,7 +24,7 @@ public class player : MonoBehaviour
         
     }
 
-    
+
     void CheckExplosion()
     {
         if (Input.GetKeyDown(KeyCode.E))
@@ -45,6 +46,8 @@ public class player : MonoBehaviour
             }
         }
     }
+
+
 
     void FixedUpdate()
     {
